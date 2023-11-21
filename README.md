@@ -6,7 +6,7 @@ As it is responsive, it works well on all devices. The website includes modules 
 Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id 
 so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
 
-Website Link:
+Website Link:https://github.com/abhayengineer/-MyInternshipProject-/tree/main
 
 
 NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.
